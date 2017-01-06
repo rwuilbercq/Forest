@@ -4,7 +4,7 @@
 
 🌳**Forest** implements a simple **Forest Evolution Algorithm (FEA)**. The idea behind **Forest** is based on the seed dispersal mechanism employed by trees to colonise nearby and far away land areas. Seed dispersal is the movement or transport of seeds away from the parent tree. This implementation is a variant of the **Invasive Weed Algorithm** (see **ref. ➀**).
 
-This module is not implemented with **speed** in mind but, instead, it is a straightforward implementation of the underlying algorithm. 
+This module is not implemented with **speed** in mind but, instead, it is a straightforward implementation of the underlying algorithm. If you have any suggestions for speed/feature improvements, please let me know!
 
 # Intuition
 
@@ -32,7 +32,7 @@ The FEA model of **Forest** consists of four phases that are accomplished sequen
 
 --------------------------------------------------------------------------------
 
-If you use this module in your projects (_whatever those are for!_), I would like to hear from you, I am curious! Of course, you do not have to, but you can drop me a line at: <romain.wuilbercq@gmail.com>
+If you use this module in your projects (_whatever those are for!_), I would like to hear from you, I am curious! Of course, you do not have to, but you can drop me a line at: romain (dot) wuilbercq (at) gmail.com
 
 Suggestion:
 
